@@ -1,4 +1,4 @@
-# SalmanRana
+# Abubakar
 
 React Native Android Assignment.
 
